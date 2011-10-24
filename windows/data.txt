@@ -1,0 +1,8 @@
+google  //username
+55665566  //password
+10.10.10.160   //ip address
+255.255.255.0  //mask
+10.10.10.1   //gateway
+0040d0297403    //my ethernet device address
+332e352e30352e30363137666b        // client version
+2          // the order of the ethernet device

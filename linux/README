@@ -1,0 +1,9 @@
+佛山科学技术学院 校园网上网 神州数码 上网认证客户端 (linux)
+
+使用方法:
+    1.修改run文件,将username和password替换为你的用户名和密码
+    2.进入目录, chmod +x run;       chmod +x zdclient
+    3.sudo ./run
+
+本版本可能无法直接使用，需要重新编译。也可以使用老版本old_version
+
